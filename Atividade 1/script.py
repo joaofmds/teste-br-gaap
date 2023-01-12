@@ -38,9 +38,7 @@ msg.attach(part)
 smtp_obj = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
 smtp_obj.starttls()
 smtp_obj.login(FROM, FROM_PASS)
-
 smtp_obj.sendmail(FROM, TO, msg.as_string())
-
 smtp_obj.quit()
 
 os.remove(BACKUP_FILE)
