@@ -1,6 +1,6 @@
 # TESTE TÉCNICO BR GAAP - INFRAESTRUTURA E CLOUD
 
-Para este teste técnico, forma desenvolvidas os seguintes desafios:
+Para este teste técnico, foram desenvolvidas os seguintes desafios:
 
 - [x] Atividade 1: Automatizar um backup de um banco de dados PostgreSQL  
 - [x] Atividade 2: Copiar um banco de dados PostgreSQL para o Azure Cosmos DB
